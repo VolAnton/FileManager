@@ -1,0 +1,52 @@
+C:\Users\user\source\repos\File_manager\bin\Debug\netcoreapp3.1\File_manager.exe
+C:\Users\user\source\repos\File_manager\bin\Debug\netcoreapp3.1\File_manager.deps.json
+C:\Users\user\source\repos\File_manager\bin\Debug\netcoreapp3.1\File_manager.runtimeconfig.json
+C:\Users\user\source\repos\File_manager\bin\Debug\netcoreapp3.1\File_manager.runtimeconfig.dev.json
+C:\Users\user\source\repos\File_manager\bin\Debug\netcoreapp3.1\File_manager.dll
+C:\Users\user\source\repos\File_manager\bin\Debug\netcoreapp3.1\File_manager.pdb
+C:\Users\user\source\repos\File_manager\obj\Debug\netcoreapp3.1\File_manager.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\File_manager\obj\Debug\netcoreapp3.1\File_manager.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\File_manager\obj\Debug\netcoreapp3.1\File_manager.AssemblyInfo.cs
+C:\Users\user\source\repos\File_manager\obj\Debug\netcoreapp3.1\File_manager.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\File_manager\obj\Debug\netcoreapp3.1\File_manager.dll
+C:\Users\user\source\repos\File_manager\obj\Debug\netcoreapp3.1\File_manager.pdb
+C:\Users\user\source\repos\File_manager\obj\Debug\netcoreapp3.1\File_manager.genruntimeconfig.cache
+E:\VS Projects\File_manager\bin\Debug\netcoreapp3.1\File_manager.exe
+E:\VS Projects\File_manager\bin\Debug\netcoreapp3.1\File_manager.deps.json
+E:\VS Projects\File_manager\bin\Debug\netcoreapp3.1\File_manager.runtimeconfig.json
+E:\VS Projects\File_manager\bin\Debug\netcoreapp3.1\File_manager.runtimeconfig.dev.json
+E:\VS Projects\File_manager\bin\Debug\netcoreapp3.1\File_manager.dll
+E:\VS Projects\File_manager\bin\Debug\netcoreapp3.1\File_manager.pdb
+E:\VS Projects\File_manager\obj\Debug\netcoreapp3.1\File_manager.csproj.AssemblyReference.cache
+E:\VS Projects\File_manager\obj\Debug\netcoreapp3.1\File_manager.AssemblyInfoInputs.cache
+E:\VS Projects\File_manager\obj\Debug\netcoreapp3.1\File_manager.AssemblyInfo.cs
+E:\VS Projects\File_manager\obj\Debug\netcoreapp3.1\File_manager.csproj.CoreCompileInputs.cache
+E:\VS Projects\File_manager\obj\Debug\netcoreapp3.1\File_manager.dll
+E:\VS Projects\File_manager\obj\Debug\netcoreapp3.1\File_manager.pdb
+E:\VS Projects\File_manager\obj\Debug\netcoreapp3.1\File_manager.genruntimeconfig.cache
+C:\Users\user\source\repos\File_manager 28 08 21\bin\Debug\netcoreapp3.1\File_manager.exe
+C:\Users\user\source\repos\File_manager 28 08 21\bin\Debug\netcoreapp3.1\File_manager.deps.json
+C:\Users\user\source\repos\File_manager 28 08 21\bin\Debug\netcoreapp3.1\File_manager.runtimeconfig.json
+C:\Users\user\source\repos\File_manager 28 08 21\bin\Debug\netcoreapp3.1\File_manager.runtimeconfig.dev.json
+C:\Users\user\source\repos\File_manager 28 08 21\bin\Debug\netcoreapp3.1\File_manager.dll
+C:\Users\user\source\repos\File_manager 28 08 21\bin\Debug\netcoreapp3.1\File_manager.pdb
+C:\Users\user\source\repos\File_manager 28 08 21\obj\Debug\netcoreapp3.1\File_manager.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\File_manager 28 08 21\obj\Debug\netcoreapp3.1\File_manager.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\File_manager 28 08 21\obj\Debug\netcoreapp3.1\File_manager.AssemblyInfo.cs
+C:\Users\user\source\repos\File_manager 28 08 21\obj\Debug\netcoreapp3.1\File_manager.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\File_manager 28 08 21\obj\Debug\netcoreapp3.1\File_manager.dll
+C:\Users\user\source\repos\File_manager 28 08 21\obj\Debug\netcoreapp3.1\File_manager.pdb
+C:\Users\user\source\repos\File_manager 28 08 21\obj\Debug\netcoreapp3.1\File_manager.genruntimeconfig.cache
+E:\VS Projects\File_manager 31 08 21\bin\Debug\netcoreapp3.1\File_manager.exe
+E:\VS Projects\File_manager 31 08 21\bin\Debug\netcoreapp3.1\File_manager.deps.json
+E:\VS Projects\File_manager 31 08 21\bin\Debug\netcoreapp3.1\File_manager.runtimeconfig.json
+E:\VS Projects\File_manager 31 08 21\bin\Debug\netcoreapp3.1\File_manager.runtimeconfig.dev.json
+E:\VS Projects\File_manager 31 08 21\bin\Debug\netcoreapp3.1\File_manager.dll
+E:\VS Projects\File_manager 31 08 21\bin\Debug\netcoreapp3.1\File_manager.pdb
+E:\VS Projects\File_manager 31 08 21\obj\Debug\netcoreapp3.1\File_manager.csproj.AssemblyReference.cache
+E:\VS Projects\File_manager 31 08 21\obj\Debug\netcoreapp3.1\File_manager.AssemblyInfoInputs.cache
+E:\VS Projects\File_manager 31 08 21\obj\Debug\netcoreapp3.1\File_manager.AssemblyInfo.cs
+E:\VS Projects\File_manager 31 08 21\obj\Debug\netcoreapp3.1\File_manager.csproj.CoreCompileInputs.cache
+E:\VS Projects\File_manager 31 08 21\obj\Debug\netcoreapp3.1\File_manager.dll
+E:\VS Projects\File_manager 31 08 21\obj\Debug\netcoreapp3.1\File_manager.pdb
+E:\VS Projects\File_manager 31 08 21\obj\Debug\netcoreapp3.1\File_manager.genruntimeconfig.cache
